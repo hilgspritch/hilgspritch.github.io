@@ -3,4 +3,4 @@ layout: post
 ---
 
 # Hello World
-I'm working on my first blog post with my colleagues, Matt and Seth!
+This is my first blog post using Jekyll and GitHub pages. I'm looking forward to sharing my thoughts with the world while learning about using open source tools. 
