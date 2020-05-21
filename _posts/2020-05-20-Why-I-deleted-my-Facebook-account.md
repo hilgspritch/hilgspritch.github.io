@@ -26,6 +26,8 @@ That's when things started to get a little crazy.
 
 Status updates replaced the Wall. Now people could broadcast to each other what they were doing that very moment. "Lauren is: getting ready to go to Blue Martini!". Sometimes I'd even refer to myself in the third person (wtf??): "Lauren is getting ready to go to Blue Martini but she can't find her favorite halter top :(".
 
+![blue-martini](/path/to/blue-martini.jpg){:class="img-responsive"}
+
 But by golly the brands. The brands started taking over Facebook. I eventually got a job "in the real world" where I had to manage these branded Facebook pages from time to time. It got harder and harder to get organic content in front of human eyes. Brands had to pay to get noticed.
 
 By 2017, I found myself addicted to Facebook. I would open the app on my phone, scroll. Put down the phone. Pick it up, scroll. I would not even know what I just looked at. When I did know what I was looking at, I would be judging. Judging myself or others. Comparing. Stalking. Wondering. I decided to delete the app off my phone. Haha! Can't fool me. I can go on Facebook through my mobile browser! Sigh. Finally, I deactivated my Facebook account. It was the only surefire way to quit it. And I did for several months. I was not even tempted to sneak back on. When I did reactivate my account, I barely visited the website and never posted.
