@@ -28,7 +28,7 @@ Status updates replaced the Wall. Now people could broadcast to each other what 
 
 ![Me at Blue Martini circa...two thousand something.](/img/posts/blue-martini.jpg){:class="img-responsive"}{: .center-image}
 
-*Me at Blue Martini circa...two thousand something*
+*Me at Blue Martini circa...two thousand something* :sweat_smile:
 
 But by golly the brands. The brands started taking over Facebook. I eventually got a job "in the real world" where I had to manage these branded Facebook pages from time to time. It got harder and harder to get organic content in front of human eyes. Brands had to pay to get noticed.
 
