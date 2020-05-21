@@ -10,7 +10,7 @@ I quickly replied (which I am usually pretty apprehensive about doing on Twitter
 
 Many others responded that they also deleted Facebook. Some said that it was an easy decision to make.
 
-I did not think it was that easy. I joined Facebook in the spring of 2005 as soon as I got my @ncsu.edu email address. I was pysched to join after my older brother told me all about how all the cool college kids were on it. There are certain moments in life that I remember distinctly. At the time, it was just another moment. But when I look back on the moment, I realize it was a milestone. Signing up for Facebook was a milestone. Not only for my life, but in society.
+I did not think it was that easy. I joined Facebook in the spring of 2005 as soon as I got my @ncsu.edu email address. I was pysched to join after my older brother told me all about how the cool college kids were on it. There are certain moments in life that I remember distinctly. At the time, it was just another moment. But when I look back on the moment, I realize it was a milestone. Signing up for Facebook was a milestone. Not only for my life, but in society.
 
 (Another one of those moments was once again involving my older brother making a huge announcement: there is this incredible computer program where you can download any song you want called Napster. For some reason I remember him calling me on the phone to tell me about it because I had to hang up and connect to the internet to check it out. He must have called from his friend's house? Or school? I don't know. But I digress.)
 
