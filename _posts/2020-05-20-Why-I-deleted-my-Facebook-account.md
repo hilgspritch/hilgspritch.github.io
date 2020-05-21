@@ -27,6 +27,7 @@ That's when things started to get a little crazy.
 Status updates replaced the Wall. Now people could broadcast to each other what they were doing that very moment. "Lauren is: getting ready to go to Blue Martini!". Sometimes I'd even refer to myself in the third person (wtf??): "Lauren is getting ready to go to Blue Martini but she can't find her favorite halter top :(".
 
 ![Me at Blue Martini circa...two thousand something.](/img/posts/blue-martini.jpg){:class="img-responsive"}{: .center-image}
+
 *Me at Blue Martini circa...two thousand something*
 
 But by golly the brands. The brands started taking over Facebook. I eventually got a job "in the real world" where I had to manage these branded Facebook pages from time to time. It got harder and harder to get organic content in front of human eyes. Brands had to pay to get noticed.
