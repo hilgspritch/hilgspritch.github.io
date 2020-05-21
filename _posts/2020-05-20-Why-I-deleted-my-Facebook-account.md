@@ -1,9 +1,6 @@
 ---
 layout: post
 ---
-
-# Why I deleted my Facebook account
-
 The other day, a friend on Twitter posed the question: what product or service do you no longer use because of moral or ethical reasons?
 
 I quickly replied (which I am usually pretty apprehensive about doing on Twitter) that I recently deleted my Facebook account because I was uncomfortable with how they handle my personal data.
