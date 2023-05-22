@@ -1,5 +1,8 @@
 ---
 layout: post
+title: Why I Deleted My Facebook Account
+description: I wonder what is happening on Facebook, but not really.
+tags: Social
 background: '/img/posts/facebook-post.jpg'
 ---
 The other day, a friend on Twitter posed the question: what product or service do you no longer use because of moral or ethical reasons?
