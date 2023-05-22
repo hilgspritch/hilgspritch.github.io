@@ -1,6 +1,6 @@
 ---
 layout: post
-background: '/img/posts/facebook-post.jpg'
+background: '/img/bg-lauren-obx.jpg'
 ---
 # Work with Lauren
 
