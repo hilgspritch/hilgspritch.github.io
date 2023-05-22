@@ -17,7 +17,7 @@ As I depart the fine city of New York and attempt to take back Raleigh, I have d
 - *2023 response: The food truck industry has made many strides since 2009 and has since taken over Raleigh. I still love a Mister Softee, but rarely do I have the patience to wait 30 minutes in the heat for a $20 cup of ramen.*
 
 - **Delivery boys on bikes:** These guys have grace, coordination, and absolutely no patience. They weave through the pedestrians and traffic as quickly as possible to deliver as many orders as possible in their shift to ensure maximum tips.
-- *2023 response: In 2018, I would meet a friend who happened to be one of those delivery boys. He continues to display grace and coordination along with several battle scars from the streets of New York.*
+- *2023 response: In 2018, I would meet a friend who happened to have been one of those delivery boys in or around 2009-2010. He continues to display grace and coordination along with several battle scars from the streets of New York.*
 
 - **People's clothes:** I love walking through a happenin' neighborhood on a Friday or Saturday night. Everyone is dressed up in what they think is the hottest outfit in their closet, and they are usually right. But the only way anyone's outfit here works is with their confidence. Therefore, anything goes in NYC!
 - *2023 response: I love this record. I have always been enamored how people express themselves through fashion.*
