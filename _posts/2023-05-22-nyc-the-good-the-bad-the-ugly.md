@@ -9,7 +9,7 @@ background: '/img/posts/nyc-subway-2009.jpg'
 
 *This note was originally published on August 13, 2009 at 10:34am as a Facebook Note*
 
-New York and attempt to take back Raleigh, I have decided to compile a list of what I have loved about New York and the things that I have not so much loved and share that info with you all. So here it goes!
+As I depart the fine city of New York and attempt to take back Raleigh, I have decided to compile a list of what I have loved about New York and the things that I have not so much loved and share that info with you all. So here it goes!
 
 ## The Good
 - **Food trucks:** Mister Softee, Sabrett (hot dogs!), Halal and Greek food trucks. If you are having a craving for any of these items while in Manhattan just squint your eyes and one will be in reach, I guarantee it!
