@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 background: '/img/bg-lauren-obx.jpg'
 ---
 # Work with Lauren
