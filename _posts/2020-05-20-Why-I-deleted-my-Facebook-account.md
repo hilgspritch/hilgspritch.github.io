@@ -43,7 +43,7 @@ Ah ha! Facebook. Tugging at my heartstrings once again. Making me believe that I
 
 I had to change the narrative. I don't need Facebook. It's only 15 years. And that's ok. It was a phase. It was fun while it lasted. There are other self-preservation strategies. Writing in my journal. Talking to my kids. Listening to stories told by my parents. Making art. Trying something new like starting a blog using open source software... eek!
 
-There were a few things I needed to do before deleting my account. I had to download all of those tagged photos (ughhhh!), download all of my data (including some fun notes I will have to share on here one day), and write a few letters to old friends who I would miss seeing on Facebook.
+There were a few things I needed to do before deleting my account. I had to download all of those tagged photos (ughhhh!), download all of my data (including some [fun notes](https://hilgspritch.github.io/social/2023/05/22/nyc-the-good-the-bad-the-ugly.html) I will have to share on here one day), and write a few letters to old friends who I would miss seeing on Facebook.
 
 I deleted my Facebook account at the end of February right before the COVID-19 pandemic took hold of North Carolina. The whole world shut down. I wonder what is happening on Facebook, but not really. I am actually so relieved to not even be tempted to go on Facebook to read the comments even if it is "just for fun". I no longer have that temptation or negative energy looming over me.
 
