@@ -20,7 +20,7 @@ As I depart the fine city of New York and attempt to take back Raleigh, I have d
 - *2023 response: In 2018, I would meet a friend who happened to have been one of those delivery boys in or around 2009-2010. He continues to display grace and coordination along with several battle scars from the streets of New York.*
 
 - **People's clothes:** I love walking through a happenin' neighborhood on a Friday or Saturday night. Everyone is dressed up in what they think is the hottest outfit in their closet, and they are usually right. But the only way anyone's outfit here works is with their confidence. Therefore, anything goes in NYC!
-- *2023 response: I love this record. I have always been enamored how people express themselves through fashion.*
+- *2023 response: I love this record. I have always been enamored how people express themselves through fashion. I know what I loved wearing out: a bodycon bandage dress accesorized with a chunky belt, long beaded necklace, and BCBG pumps. It was the best of times.*
 
 - **Reading:** I have always liked to read okay, but with all of the waiting that has to be done here, I have found a new love for reading! You will see why when I write about "The Bad".
 - *2023 response: A Kindle would have been so critical for my 2009 self!*
