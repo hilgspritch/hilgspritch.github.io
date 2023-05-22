@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NYC in 2009: The Good, The Bad, and The Ugly
+title: NYC in 2009
 description: Fourteen years later, I think many of these observations ring true today.
 tags: Social
 background: '/img/posts/nyc-subway-2009.jpg'
