@@ -1,143 +1,144 @@
 ---
-layout: post
+layout: page
+title: Work with Lauren
+description: My Resume
 background: '/img/bg-lauren-obx.jpg'
 ---
-# Work with Lauren
-
-**SEO-driven precision marketer obsessed with connecting content and people. Deeply rooted in community. Leads teams with relentless optimism, data-informed curiosity, and a passion for aligning action to strategy and measurable goals. Seeking opportunity to curate positive brand experiences for key audiences. I've been told that I collaborate like it's a competitive team sport.**
-
-## Work History
-### Manager, Digital Communities (October 2022 - Current)
-*Red Hat, Raleigh, NC*
-- Manage team of highly skilled editors and technical writers that generates more than 1400 articles, ebooks, cheat sheets, and whitepapers published last year with a total audience of 23 million unique visitors
-- Mentor full-time associates and part-time contractors in a hybrid team culture leaning on asynchronous communication
-- Drive editorial strategy for four community-powered publications contributing $257M in annual opportunity value
-- Established and lead global editorial coordination program using agile-inspired methodologies to forge cross-functional collaboration between content creators, optimizers, and promoters
-- Guide content priorities against persona data, marketing KPIs, and overall company strategy
-- Maintain team documentation to emphasize autonomy, curiosity, and collaboration as team values and transparently defined clear actions and behaviors for individuals to be successful
-- Navigate hiring processes, job profiling, pay transparency, and talent practices
-
-### Principal Managing Editor, Digital Communities (January 2022 - March 2023)
-*Red Hat, Raleigh, NC*
-- Led daily editorial calendars for persona-based community-powered publications, Opensource.com and The Enterprisers Project, driving a total of 13 million unique visitors annually
-- Scaled downloadable gated asset strategy to drive $47M in annual opportunity value
-- Oversaw compliance with style guide, editorial guidelines, and brand identity throughout entire publication portfolio
-- Synthesized complex marketing analytics and community feedback into actionable insights
-- Conducted editorial meetings with staff members to collaborate on strategy and optimize proposed headlines
-- Shared flywheel community publication model through company-wide presentations including global insights calls attended by 300+ associates
-- Developed health check framework for all community publications to measure business value
-- Engaged 200k opt-in email subscribers with weekly newsletters, special promotions, and personalized experimentation driving $32M in opportunity value
-- Managed data analytics intern
-
-### Senior Managing Editor, Opensource.com (June 2020 - January 2022)
-*Red Hat, Raleigh, NC*
-- Edited and published 19 community-contributed articles per week
-- Applied persona data, keyword research, and relevant events to plan editorial calendar
-- Achieved monthly readership record of 3 million page views
-- Architected SEO strategy playbook for community publications
-- Increased weekly email newsletter subscribers by 45% within a year
-- Identified and optimized old content to grow organic traffic, resulting in increased impressions and clicks from Google search
-- Nurtured and coached community of open source enthusiasts, IT professionals, developers, sysadmins, and educators
-
-### Content Strategist, Opensource.com (April 2019 - June 2020)
-*Red Hat, Raleigh, NC*
-- Optimized articles and resources for search and conversions, achieving 1.6 million monthly page views
-- Converted SEO-winning articles into downloadable gated assets
-- Ran social media handles for Opensource.com
-- Delivered daily, weekly, monthly, and quarterly content performance reports to key stakeholders including peers, company leaders, and community members
-- Filled content gaps by writing articles aligned to community calendar
-
-### SEO Program Manager (February 2018 - April 2019)
-*Red Hat, Raleigh, NC*
-- Developed SEO framework for global corporate marketing
-- Created SEO checklists for content creators to apply to webpages
-- Delivered internal presentations and lightning talks to enthusiastically champion SEO best practices
-
-### SEO Specialist (June 2016 - February 2018)
-*Citrix, Raleigh, NC*
-- Implemented a three-prong SEO strategy focused on link building, improving technical health, and creating content
-- Partnered with SEO agency to develop strategic content for link building
-- Increased SEO-generated MRR by 48% year-over-year
-- Trained team members on SEO best practices
-- Participated in the Innovators Program, applying Lean Startup Principles to hypothesize, validate, test, and pitch a use case for voice assistant technology and acquired 8 customers for closed beta test
-
-### Senior Marketing Consultant (April 2014 - June 2016)
-*Consultwebs, Raleigh, NC*
-- Managed a team of marketing consultants
-- Directed data-driven content strategies for law firm clients
-- Executed SEO activities to increase rankings and generate leads
-- Delivered monthly campaign reports
-- Created training material including documentation and videos
-
-### Marketing Coordinator (May 2012 - March 2014)
-*CafePress, Raleigh, NC*
-- Created and curated product and category pages with SEO best practices
-- Designed website banners, online advertisements, and social media graphics adhering to brand guidelines
-- Optimized email open rates by strategically scheduling promotions and messages to segmented audiences
-
-### Copywriter (September 2011 - May 2012)
-*Implus, Durham, NC*
-- Wrote and edited copy for web, packaging, advertisements, press releases, swag, radio commercials, video, and collateral
-- Directed and executed social media content strategy
-- Fostered relationships with industry experts to build links to blogs
-
-### Web Merchandiser (October 2009 - September 2011)
-*Rosenberry Rooms, Raleigh, NC*
-- Fostered strong vendor relationships to maintain and support business
-- Created and maintained product pages on the website
-- Attended markets and selected products
-- Used SEO best practices when merchandising products online
-- Project managed the implementation of the on-site search engine
-
-## Education
-### Bachelor of Science: Textile and Apparel Management (2005 - 2009)
-*North Carolina State University, Raleigh, NC*
-
-## Skills
-Tableau
-Adobe Analytics
-Eloqua
-Salesforce
-Drupal
-WordPress
-Ahrefs
-Moz
-Google Search Console
-Google Analytics
-Google Sheets
-Google Slides
-Trello
-HTML
-Markdown
-AP Style Copyediting
-Photo Editing
-WorkDay
-
-## Community Involvement
-**Toastmasters International**
-*Treasurer, 2018 - 2022*
-
-**Wake County Commission for Women**
-*Appointed Member, 2018 - 2019*
-
-**NC Institute of Political Leadership**
-*Fellow, Spring 2018*
-
-**Raleigh Citizens Leadership Academy**
-*Graduate, Spring 2017*
-
-**Raleigh Neighborhood Exchange**
-*Planning Committee Member, 2016*
-
-**Hillsborough Citizens Advisory Council**
-*Secretary, 2015 - 2017*
-
-**Jane's Walk Raleigh**
-*Walk Organizer, 2015*
-*Walk Leader, 2014*
-
-**Raleigh Neighborhood College**
-*Graduate, Fall 2014*
-
-**Raleigh/Cary Delta Gamma Alumnae Association**
-*President, 2011 - 2015*
+<p><strong>SEO-driven precision marketer obsessed with connecting content and people. Deeply rooted in community. Leads teams with relentless optimism, data-informed curiosity, and a passion for aligning action to strategy and measurable goals. Seeking opportunity to curate positive brand experiences for key audiences. I’ve been told that I collaborate like it’s a competitive team sport.</strong></p>
+<h2 id="work-history">Work History</h2>
+<h3 id="manager-digital-communities-october-2022---current">Manager, Digital Communities (October 2022 - Current)</h3>
+<p><em>Red Hat, Raleigh, NC</em></p>
+<ul>
+<li>Manage team of highly skilled editors and technical writers that generates more than 1400 articles, ebooks, cheat sheets, and whitepapers published last year with a total audience of 23 million unique visitors</li>
+<li>Mentor full-time associates and part-time contractors in a hybrid team culture leaning on asynchronous communication</li>
+<li>Drive editorial strategy for four community-powered publications contributing $257M in annual opportunity value</li>
+<li>Established and lead global editorial coordination program using agile-inspired methodologies to forge cross-functional collaboration between content creators, optimizers, and promoters</li>
+<li>Guide content priorities against persona data, marketing KPIs, and overall company strategy</li>
+<li>Maintain team documentation to emphasize autonomy, curiosity, and collaboration as team values and transparently defined clear actions and behaviors for individuals to be successful</li>
+<li>Navigate hiring processes, job profiling, pay transparency, and talent practices</li>
+</ul>
+<h3 id="principal-managing-editor-digital-communities-january-2022---march-2023">Principal Managing Editor, Digital Communities (January 2022 - March 2023)</h3>
+<p><em>Red Hat, Raleigh, NC</em></p>
+<ul>
+<li>Led daily editorial calendars for persona-based community-powered publications, <a href="http://Opensource.com">Opensource.com</a> and The Enterprisers Project, driving a total of 13 million unique visitors annually</li>
+<li>Scaled downloadable gated asset strategy to drive $47M in annual opportunity value</li>
+<li>Oversaw compliance with style guide, editorial guidelines, and brand identity throughout entire publication portfolio</li>
+<li>Synthesized complex marketing analytics and community feedback into actionable insights</li>
+<li>Conducted editorial meetings with staff members to collaborate on strategy and optimize proposed headlines</li>
+<li>Shared flywheel community publication model through company-wide presentations including global insights calls attended by 300+ associates</li>
+<li>Developed health check framework for all community publications to measure business value</li>
+<li>Engaged 200k opt-in email subscribers with weekly newsletters, special promotions, and personalized experimentation driving $32M in opportunity value</li>
+<li>Managed data analytics intern</li>
+</ul>
+<h3 id="senior-managing-editor-opensource.com-june-2020---january-2022">Senior Managing Editor, <a href="http://Opensource.com">Opensource.com</a> (June 2020 - January 2022)</h3>
+<p><em>Red Hat, Raleigh, NC</em></p>
+<ul>
+<li>Edited and published 19 community-contributed articles per week</li>
+<li>Applied persona data, keyword research, and relevant events to plan editorial calendar</li>
+<li>Achieved monthly readership record of 3 million page views</li>
+<li>Architected SEO strategy playbook for community publications</li>
+<li>Increased weekly email newsletter subscribers by 45% within a year</li>
+<li>Identified and optimized old content to grow organic traffic, resulting in increased impressions and clicks from Google search</li>
+<li>Nurtured and coached community of open source enthusiasts, IT professionals, developers, sysadmins, and educators</li>
+</ul>
+<h3 id="content-strategist-opensource.com-april-2019---june-2020">Content Strategist, <a href="http://Opensource.com">Opensource.com</a> (April 2019 - June 2020)</h3>
+<p><em>Red Hat, Raleigh, NC</em></p>
+<ul>
+<li>Optimized articles and resources for search and conversions, achieving 1.6 million monthly page views</li>
+<li>Converted SEO-winning articles into downloadable gated assets</li>
+<li>Ran social media handles for <a href="http://Opensource.com">Opensource.com</a></li>
+<li>Delivered daily, weekly, monthly, and quarterly content performance reports to key stakeholders including peers, company leaders, and community members</li>
+<li>Filled content gaps by writing articles aligned to community calendar</li>
+</ul>
+<h3 id="seo-program-manager-february-2018---april-2019">SEO Program Manager (February 2018 - April 2019)</h3>
+<p><em>Red Hat, Raleigh, NC</em></p>
+<ul>
+<li>Developed SEO framework for global corporate marketing</li>
+<li>Created SEO checklists for content creators to apply to webpages</li>
+<li>Delivered internal presentations and lightning talks to enthusiastically champion SEO best practices</li>
+</ul>
+<h3 id="seo-specialist-june-2016---february-2018">SEO Specialist (June 2016 - February 2018)</h3>
+<p><em>Citrix, Raleigh, NC</em></p>
+<ul>
+<li>Implemented a three-prong SEO strategy focused on link building, improving technical health, and creating content</li>
+<li>Partnered with SEO agency to develop strategic content for link building</li>
+<li>Increased SEO-generated MRR by 48% year-over-year</li>
+<li>Trained team members on SEO best practices</li>
+<li>Participated in the Innovators Program, applying Lean Startup Principles to hypothesize, validate, test, and pitch a use case for voice assistant technology and acquired 8 customers for closed beta test</li>
+</ul>
+<h3 id="senior-marketing-consultant-april-2014---june-2016">Senior Marketing Consultant (April 2014 - June 2016)</h3>
+<p><em>Consultwebs, Raleigh, NC</em></p>
+<ul>
+<li>Managed a team of marketing consultants</li>
+<li>Directed data-driven content strategies for law firm clients</li>
+<li>Executed SEO activities to increase rankings and generate leads</li>
+<li>Delivered monthly campaign reports</li>
+<li>Created training material including documentation and videos</li>
+</ul>
+<h3 id="marketing-coordinator-may-2012---march-2014">Marketing Coordinator (May 2012 - March 2014)</h3>
+<p><em>CafePress, Raleigh, NC</em></p>
+<ul>
+<li>Created and curated product and category pages with SEO best practices</li>
+<li>Designed website banners, online advertisements, and social media graphics adhering to brand guidelines</li>
+<li>Optimized email open rates by strategically scheduling promotions and messages to segmented audiences</li>
+</ul>
+<h3 id="copywriter-september-2011---may-2012">Copywriter (September 2011 - May 2012)</h3>
+<p><em>Implus, Durham, NC</em></p>
+<ul>
+<li>Wrote and edited copy for web, packaging, advertisements, press releases, swag, radio commercials, video, and collateral</li>
+<li>Directed and executed social media content strategy</li>
+<li>Fostered relationships with industry experts to build links to blogs</li>
+</ul>
+<h3 id="web-merchandiser-october-2009---september-2011">Web Merchandiser (October 2009 - September 2011)</h3>
+<p><em>Rosenberry Rooms, Raleigh, NC</em></p>
+<ul>
+<li>Fostered strong vendor relationships to maintain and support business</li>
+<li>Created and maintained product pages on the website</li>
+<li>Attended markets and selected products</li>
+<li>Used SEO best practices when merchandising products online</li>
+<li>Project managed the implementation of the on-site search engine</li>
+</ul>
+<h2 id="education">Education</h2>
+<h3 id="bachelor-of-science-textile-and-apparel-management-2005---2009">Bachelor of Science: Textile and Apparel Management (2005 - 2009)</h3>
+<p><em>North Carolina State University, Raleigh, NC</em></p>
+<h2 id="skills">Skills</h2>
+<p>Tableau<br>
+Adobe Analytics<br>
+Eloqua<br>
+Salesforce<br>
+Drupal<br>
+WordPress<br>
+Ahrefs<br>
+Moz<br>
+Google Search Console<br>
+Google Analytics<br>
+Google Sheets<br>
+Google Slides<br>
+Trello<br>
+HTML<br>
+Markdown<br>
+AP Style Copyediting<br>
+Photo Editing<br>
+WorkDay</p>
+<h2 id="community-involvement">Community Involvement</h2>
+<p><strong>Toastmasters International</strong><br>
+<em>Treasurer, 2018 - 2022</em></p>
+<p><strong>Wake County Commission for Women</strong><br>
+<em>Appointed Member, 2018 - 2019</em></p>
+<p><strong>NC Institute of Political Leadership</strong><br>
+<em>Fellow, Spring 2018</em></p>
+<p><strong>Raleigh Citizens Leadership Academy</strong><br>
+<em>Graduate, Spring 2017</em></p>
+<p><strong>Raleigh Neighborhood Exchange</strong><br>
+<em>Planning Committee Member, 2016</em></p>
+<p><strong>Hillsborough Citizens Advisory Council</strong><br>
+<em>Secretary, 2015 - 2017</em></p>
+<p><strong>Jane’s Walk Raleigh</strong><br>
+<em>Walk Organizer, 2015</em><br>
+<em>Walk Leader, 2014</em></p>
+<p><strong>Raleigh Neighborhood College</strong><br>
+<em>Graduate, Fall 2014</em></p>
+<p><strong>Raleigh/Cary Delta Gamma Alumnae Association</strong><br>
+<em>President, 2011 - 2015</em></p>
+</div>
+</body>
