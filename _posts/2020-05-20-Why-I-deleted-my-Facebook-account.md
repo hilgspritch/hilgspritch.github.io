@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why I Deleted My Facebook Account
+title: Why I deleted my Facebook account
 description: I wonder what is happening on Facebook, but not really.
 tags: Social
 background: '/img/posts/facebook-post.jpg'
