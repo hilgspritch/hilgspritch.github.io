@@ -2,8 +2,8 @@
 layout: post
 title: AI in the fashion industry: 3 pitfalls and 3 promises
 description: AI is a technological force that can be used for good in a cut-throat industry.
-tags: Style, Technology
-categories: Style, Technology
+tags: Technology
+categories: Technology
 background: '/img/posts/marcus-loke-xXJ6utyoSw0-unsplash.jpg'
 ---﻿
 
