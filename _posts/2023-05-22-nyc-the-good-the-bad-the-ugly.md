@@ -7,6 +7,8 @@ categories: Social
 background: '/img/posts/nyc-subway-2009.jpg'
 ---
 
+### Fourteen years later, I think many of these observations ring true today.
+
 *This note was originally published on August 13, 2009 at 10:34am as a Facebook Note. It has been edited slightly because apparently I did not believe in the Oxford comma in 2009.*
 
 As I depart the fine city of New York and attempt to take back Raleigh, I have decided to compile a list of what I have loved about New York and the things that I have not so much loved and share that info with you all. So here it goes!

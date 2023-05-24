@@ -6,7 +6,7 @@ tags: Style
 categories: Style
 background: '/img/posts/no-capsule-wardrobe.png'
 ---
-
+### I use fashion as a form of self-expression and that reduces my stress.
 
 
 In a fast-paced world where simplicity seemed elusive, I embarked on a quest for a streamlined lifestyle back in 2017. Juggling the responsibilities of being a full-time working mom to a lively two-year-old daughter, I yearned for a touch of tranquility. I wouldn't have guessed that my journey to simplicity would lead me to discover the power of fashion as a means of self-expression. In this post, I will share with you how I found my personal style amidst the chaos and embraced the freedom it brought.
@@ -42,3 +42,5 @@ Through my capsule wardrobe experiment, I discovered that choosing my outfit was
 
 
 *Are you left wondering how I ended up simplifying my life? Though fashion wasn't the answer, it was lunch. Is there any adult out there who actually enjoys deciding what to eat for lunch? I'd much prefer making lunch for my kids than for myself. So when I go to the office, I eat lunch in the cafeteria, where decisions are made for me. At home, I make my go-to black bean burger quesadilla. I'm now free from lunch decision-making, and it feels good.*
+
+*Text generated in part by ChatGPT, developed by OpenAI (https://openai.com/) accessed on 5/23/23.*
