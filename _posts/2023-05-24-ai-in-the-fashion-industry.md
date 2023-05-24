@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI in the fashion industry - 3 pitfalls and 3 promises
+title: AI in the fashion industry - 2 pitfalls and 3 promises
 description: AI is a technological force that can be used for good in the ready-to-wear market.
 tags: Style
 background: '/img/posts/marcus-loke-xXJ6utyoSw0-unsplash.jpg'
