@@ -6,7 +6,7 @@ tags: Style
 background: '/img/posts/marcus-loke-xXJ6utyoSw0-unsplash.jpg'
 ---
 
-*Image by Photo by [Marcus Loke](https://unsplash.com/es/@marcusloke?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/xXJ6utyoSw0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
+*Photo by [Marcus Loke](https://unsplash.com/es/@marcusloke?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/xXJ6utyoSw0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
 We find ourselves at a turning point where generative AI has woven its way into every facet of our lives. Today, I want to delve into its potential impact on the world of ready-to-wear fashion—an industry that has already been infiltrated by this technological force. Let's explore the pitfalls that lie ahead and discover how we can harness the power of AI to shape a better future for fashion.
 
