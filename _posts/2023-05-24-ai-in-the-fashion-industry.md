@@ -5,6 +5,7 @@ description: AI is a technological force that can be used for good in the ready-
 tags: Style
 background: '/img/posts/marcus-loke-xXJ6utyoSw0-unsplash.jpg'
 ---
+### AI is a technological force that can be used for good in the ready-to-wear market.
 
 *Photo by [Marcus Loke](https://unsplash.com/es/@marcusloke?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/xXJ6utyoSw0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
