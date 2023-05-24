@@ -25,29 +25,29 @@ The difference between the trend cycle today and that of previous decades is the
 
 ### Impact on the environment
 
-1.  AI has firmly entrenched itself in the world of fast fashion. Giants like SHEIN, H&M, Zara, and even Target rely on vast amounts of data to churn out new styles at an astonishing pace. SHEIN, for instance, unveils nearly 7,000 new SKUs on its website daily. The constant influx of trends instills a sense of urgency in consumers to keep up. However, this pursuit of the latest fashion comes at a significant environmental cost. The designs are disposable, leading to overflowing landfills burdened with discarded garments. Although consumers have choice in where they shop, it's quite burdensome to do thorough research on top of our already chaotic lives. The responsibility to address this issue truly lies with the brands, not solely on the individual consumer. I recommend checking out the Sounds Like a Cult podcast episode on fast fashion to learn more about this issue. Activist Leah Thomas (@greengirlleah on Insta) talks about the intersectionality between sustainability and anti-racism in fashion. It’s a fascinating listen!
+AI has firmly entrenched itself in the world of fast fashion. Giants like SHEIN, H&M, Zara, and even Target rely on vast amounts of data to churn out new styles at an astonishing pace. SHEIN, for instance, unveils nearly 7,000 new SKUs on its website daily. The constant influx of trends instills a sense of urgency in consumers to keep up. However, this pursuit of the latest fashion comes at a significant environmental cost. The designs are disposable, leading to overflowing landfills burdened with discarded garments. Although consumers have choice in where they shop, it's quite burdensome to do thorough research on top of our already chaotic lives. The responsibility to address this issue truly lies with the brands, not solely on the individual consumer. I recommend checking out the Sounds Like a Cult podcast episode on fast fashion to learn more about this issue. Activist Leah Thomas (@greengirlleah on Insta) talks about the intersectionality between sustainability and anti-racism in fashion. It’s a fascinating listen!
 
 
 ### Unfair labor practices
 
-2.  AI exacerbates the ongoing issue of unfair labor practices within the fashion industry. Those who create these soon-to-be-discarded garments often endure low wages and harsh working conditions. As AI streamlines production processes, it is vital for brands to prioritize ethical practices and ensure the well-being of their workers.
+AI exacerbates the ongoing issue of unfair labor practices within the fashion industry. Those who create these soon-to-be-discarded garments often endure low wages and harsh working conditions. As AI streamlines production processes, it is vital for brands to prioritize ethical practices and ensure the well-being of their workers.
 
 
 ## Potential promises of AI in the fashion industry
 
 ### Augmenting creativity
 
-1.  AI holds the power to enhance the creative process for fashion designers and brands. By leveraging available data and consumer feedback, they can craft unique designs that truly resonate with their audience. This approach fosters inclusivity and ensures that fashion reflects the desires and aspirations of diverse individuals.
+AI holds the power to enhance the creative process for fashion designers and brands. By leveraging available data and consumer feedback, they can craft unique designs that truly resonate with their audience. This approach fosters inclusivity and ensures that fashion reflects the desires and aspirations of diverse individuals.
 
 
 ### Improved sizing and fit
 
-2.  One longstanding challenge in the fashion world is the perplexing lack of consistency in women's sizing. The number on the label can represent totally different sizes depending on what retailer you visit. AI presents an opportunity to rectify this issue. By employing sophisticated algorithms, brands can deliver tailored fits that celebrate the beauty of individual body types. Imagine a world where clothing fits you perfectly, empowering you to feel confident and comfortable.
+One longstanding challenge in the fashion world is the perplexing lack of consistency in women's sizing. The number on the label can represent totally different sizes depending on what retailer you visit. AI presents an opportunity to rectify this issue. By employing sophisticated algorithms, brands can deliver tailored fits that celebrate the beauty of individual body types. Imagine a world where clothing fits you perfectly, empowering you to feel confident and comfortable.
 
 
 ### Elevating pattern accuracy and construction quality
 
-3.  Rather than using AI to generate an overwhelming number of new products each day, affordable brands can redirect its power to improve pattern accuracy and enhance the quality of construction. This shift would democratize fashion choices, allowing more people to access well-fitting, well-made clothing.
+Rather than using AI to generate an overwhelming number of new products each day, affordable brands can redirect its power to improve pattern accuracy and enhance the quality of construction. This shift would democratize fashion choices, allowing more people to access well-fitting, well-made clothing.
 
 
 As we navigate the ever-evolving landscape of AI in the fashion industry, it's essential to tread carefully and utilize its power responsibly. As much as I would love to channel my inner Cher Horowitz and build an AI-inspired wardrobe, there are serious pitfalls and promises with tech in fashion. By addressing the environmental impacts of fast fashion and championing ethical labor practices, we can shape a more sustainable future. Simultaneously, harnessing AI's potential to augment creativity, enhance sizing and fit, and improve construction quality holds the key to a fashion industry that uplifts and empowers individuals. Let us dare to dream of a world where fashion is inclusive, sustainable, and personal—a world where AI serves as a catalyst for positive change.
